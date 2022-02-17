@@ -93,7 +93,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_index_css__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_index_css__WEBPACK_IMPORTED_MODULE_8__);
 
 
-var _jsxFileName = "D:\\Kuli-Ah\\Semester 4\\Proyek 4\\cms\\Template\\PPL1\\frontend\\pages\\_app.js";
+var _jsxFileName = "D:\\Kuli-Ah\\Semester 4\\Proyek 4\\cms\\New folder\\PPL4-B3-Pakoci\\PPL1\\frontend\\pages\\_app.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
